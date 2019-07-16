@@ -1,0 +1,15 @@
+table {
+    border: 2px solid blue;
+    color: blue;
+    
+}
+header {
+    height: 50px;
+}
+tr {
+    
+    color: green;
+}
+.segunda {
+    background-color: black;
+}
